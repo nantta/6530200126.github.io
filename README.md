@@ -27,6 +27,6 @@ Authorization เป็นกระบวนการที่ใช้ในก
 - แพลตฟอร์มอีคอมเมิร์ซ (เช่น Amazon)
 
 - 6530200673
-  - *[Authorization](https://6530200673.github.io/Autorization)*
+  - https://nontawatjgm.github.io/6530200673.github.io/
 
 [Back](README.md)
