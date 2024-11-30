@@ -23,7 +23,8 @@ Authorization เป็นกระบวนการที่ใช้ในก
 
 
 <h1>Sample in Daily life</h1>
-
+- ATM
+- การเข้าอาคารสำนักงาน
 
 
 [Back](README.md)
