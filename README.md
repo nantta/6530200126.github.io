@@ -23,8 +23,10 @@ Authorization เป็นกระบวนการที่ใช้ในก
 
 
 <h1>Sample in Daily life</h1>
+
 - ATM
 - การเข้าอาคารสำนักงาน
+- แพลตฟอร์มอีคอมเมิร์ซ (เช่น Amazon)
 
 
 [Back](README.md)
