@@ -29,4 +29,5 @@ Authorization เป็นกระบวนการที่ใช้ในก
 - แพลตฟอร์มอีคอมเมิร์ซ (เช่น Amazon)
 
 
+
 [Back](README.md)
