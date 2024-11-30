@@ -1,6 +1,5 @@
 # What is " Authorization "
 
-| Authorization|
 
 ## Authorization 
 |----|
