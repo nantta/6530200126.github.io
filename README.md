@@ -28,6 +28,8 @@ Authorization เป็นกระบวนการที่ใช้ในก
 - แพลตฟอร์มอีคอมเมิร์ซ (เช่น Amazon)
 
 - 6530200673
-  - https://nontawatjgm.github.io/6530200673.github.io/
+  - หน้าPage เพื่อน[https://nontawatjgm.github.io/6530200673.github.io/](https://nontawatjgm.github.io/)
+  - หน้างาน เพื่อน https://nontawatjgm.github.io/authorization.html
+   
 
 [Back](README.md)
